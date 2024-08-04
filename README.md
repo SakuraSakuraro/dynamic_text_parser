@@ -4,13 +4,13 @@ For parsing text from websites with dynamically changing text
 # Instructions for setup and run the script
 
 1. **Enter the website address**  
-  First you need to specify the address of your website. To do this, simply replaced the text `"enter website url"` in the code to your website URL. For example:
+  First you need to specify the address of your website. To do this, simply replaced the text `enter website url` in the code to your website URL. For example:
    ```python
    url = "example.com"
    ```
 
 2. **Identify HTML-tag**  
-   Next you need to specify the need HTML tag. Simply replace `"enter name html tag"` to you need name of the tag . For example, if your tag looks like this:
+   Next you need to specify the need HTML tag. Simply replace `enter name html tag` to you need name of the tag . For example, if your tag looks like this:
    ```html
    <a name="endofpage"></a>Random text
    ```
