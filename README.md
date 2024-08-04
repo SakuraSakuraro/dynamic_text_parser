@@ -1,5 +1,5 @@
 # Dynamic text parser
-For parsing text from sites with dynamically changing text
+For parsing text from websites with dynamically changing text
 
 # Instructions for setup and run the script
 
